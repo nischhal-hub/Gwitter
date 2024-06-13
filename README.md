@@ -20,4 +20,19 @@ then run:
 
 then you can visit site on [http://localhost:5000](http://localhost:5000)
 
-## IMP: this app runs on port 5000.
+### IMP: this app runs on port 5000.
+
+# Preview
+
+## Sign In
+![alt text](image-1.png)
+
+## Sign up
+![alt text](image-2.png)
+
+## Home page
+![alt text](image.png)
+
+## Profile page
+
+![alt text](image-3.png)
